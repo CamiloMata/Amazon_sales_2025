@@ -3,7 +3,7 @@ Este proyecto es un dashboard interactivo construido con Streamlit para visualiz
 
 👁️Vista Previa
 
-![demo dashboard] (view.gif)
+![demo del dashboard](view.gif)
 
 🚀 Características Principales
 Métricas Dinámicas: Muestra el promedio de ventas mensuales y la calificación (rating) promedio general.
@@ -70,5 +70,6 @@ Bash
 
 streamlit run dashboard.py
 Streamlit iniciará un servidor web local y abrirá automáticamente el dashboard en tu navegador predeterminado.
+
 
 
