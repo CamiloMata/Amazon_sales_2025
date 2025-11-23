@@ -1,7 +1,9 @@
 🛒 Dashboard de Ventas de Amazon 2025
 Este proyecto es un dashboard interactivo construido con Streamlit para visualizar y analizar un conjunto de datos ficticio de ventas de Amazon del año 2025. La aplicación permite a los usuarios filtrar los datos y explorar métricas clave, tendencias de ventas y rendimiento de productos.
 
-![]
+👁️Vista Previa
+
+![Visualización dashboard] [view.gif]
 
 🚀 Características Principales
 Métricas Dinámicas: Muestra el promedio de ventas mensuales y la calificación (rating) promedio general.
@@ -68,3 +70,4 @@ Bash
 
 streamlit run dashboard.py
 Streamlit iniciará un servidor web local y abrirá automáticamente el dashboard en tu navegador predeterminado.
+
